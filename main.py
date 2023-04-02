@@ -19,3 +19,4 @@ st.write("Here's an image of a cute cat:")
 # st.image(image, caption="A cute cat")
 
 st.write("Thanks for visiting!")
+st.write("adding new line")
